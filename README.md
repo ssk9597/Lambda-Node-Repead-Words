@@ -16,9 +16,9 @@ Node.js を使います。
 
 ### 【Infra】Lambda, API Gateway
 
-API Gateway で API を作成  し CORS 対応を行う。
+API GatewayでAPIを作成しCORS対応を行う。
 
-API Gateway と Lambda を接続し、処理を行う。
+API GatewayとLambda を接続し、処理を行う。
 
 ## Qiita
 
